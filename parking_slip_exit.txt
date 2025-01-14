@@ -1,0 +1,180 @@
+
+        Vehicle Exited
+        ---------------------------
+        ID            : 2
+        Vehicle No.   : pa 7894
+        Entry Time    : 2024-12-21 10:50:20.933820
+        Exit Time     : 2024-12-21 10:50:38.992080
+        Duration      : 0.00 hours
+        Addition Fare : 0.00NPR
+        Price         : 0.00 NPR
+        ---------------------------
+        
+
+        Vehicle Exited
+        ---------------------------
+        ID            : 3
+        Vehicle No.   : pa 4567
+        Entry Time    : 2024-12-21 10:53:05.717396
+        Exit Time     : 2024-12-21 10:53:17.903723
+        Duration      : 0.00 hours
+        Addition Fare : 0.00NPR
+        Price         : 0.00 NPR
+        ---------------------------
+        
+
+        Vehicle Exited
+        ---------------------------
+        ID            : 3
+        Vehicle No.   : pa 4567
+        Entry Time    : 2024-12-21 10:53:05.717396
+        Exit Time     : 2024-12-21 10:55:05.707552
+        Duration      : 0.00 hours
+        Addition Fare : 0.00NPR
+        Price         : 0.00 NPR
+        ---------------------------
+        
+
+        Vehicle Exited
+        ---------------------------
+        ID            : 3
+        Vehicle No.   : pa 4567
+        Entry Time    : 2024-12-21 10:53:05.717396
+        Exit Time     : 2024-12-21 10:55:59.605406
+        Duration      : 0.00 hours
+        Addition Fare : 0.00NPR
+        Price         : 0.00 NPR
+        ---------------------------
+        
+
+        Vehicle Exited
+        ---------------------------
+        ID            : 3
+        Vehicle No.   : pa 4567
+        Entry Time    : 2024-12-21 10:53:05.717396
+        Exit Time     : 2024-12-21 10:57:18.292423
+        Duration      : 0.00 hours
+        Addition Fare : 0.00NPR
+        Price         : 0.00 NPR
+        ---------------------------
+        
+
+        Vehicle Exited
+        ---------------------------
+        ID            : 3
+        Vehicle No.   : pa 4567
+        Entry Time    : 2024-12-21 10:53:05.717396
+        Exit Time     : 2024-12-21 10:58:32.980854
+        Duration      : 0.00 hours
+        Addition Fare : 0.00NPR
+        Price         : 0.00 NPR
+        ---------------------------
+        
+
+        Vehicle Exited
+        ---------------------------
+        ID            : 3
+        Vehicle No.   : pa 4567
+        Entry Time    : 2024-12-21 10:53:05.717396
+        Exit Time     : 2024-12-21 11:02:11.433704
+        Duration      : 0.00 hours
+        Addition Fare : 0.00NPR
+        Price         : 0.00 NPR
+        ---------------------------
+        
+
+        Vehicle Exited
+        ---------------------------
+        ID            : 9
+        Vehicle No.   : pa 4657
+        Entry Time    : 2024-12-21 11:03:31.571838
+        Exit Time     : 2024-12-21 11:03:40.906648
+        Duration      : 0.00 hours
+        Addition Fare : 0.00NPR
+        Price         : 0.00 NPR
+        ---------------------------
+        
+
+        Vehicle Exited
+        ---------------------------
+        ID            : 3
+        Vehicle No.   : pa 4567
+        Entry Time    : 2024-12-21 10:53:05.717396
+        Exit Time     : 2024-12-21 11:04:26.544779
+        Duration      : 0.00 hours
+        Addition Fare : 0.00NPR
+        Price         : 0.00 NPR
+        ---------------------------
+        
+
+        Vehicle Exited
+        ---------------------------
+        ID            : 3
+        Vehicle No.   : pa 4567
+        Entry Time    : 2024-12-21 10:53:05.717396
+        Exit Time     : 2024-12-21 11:13:22.258975
+        Duration      : 0.00 hours
+        Addition Fare : 0.00NPR
+        Price         : 0.00 NPR
+        ---------------------------
+        
+
+        Vehicle Exited
+        ---------------------------
+        ID            : 3
+        Vehicle No.   : pa 4567
+        Entry Time    : 2024-12-21 10:53:05.717396
+        Exit Time     : 2024-12-21 11:16:01.928694
+        Duration      : 0.00 hours
+        Addition Fare : 0.00NPR
+        Price         : 0.00 NPR
+        ---------------------------
+        
+
+        Vehicle Exited
+        ---------------------------
+        ID            : 3
+        Vehicle No.   : pa 4567
+        Entry Time    : 2024-12-21 10:53:05.717396
+        Exit Time     : 2024-12-21 11:18:44.142344
+        Duration      : 0.00 hours
+        Addition Fare : 0.00NPR
+        Price         : 0.00 NPR
+        ---------------------------
+        
+
+        Vehicle Exited
+        ---------------------------
+        ID            : 3
+        Vehicle No.   : pa 4567
+        Entry Time    : 2024-12-21 10:53:05.717396
+        Exit Time     : 2024-12-21 11:21:03.132822
+        Duration      : 0.00 hours
+        Addition Fare : 0.00NPR
+        Price         : 0.00 NPR
+        ---------------------------
+        
+
+        Vehicle Exited
+        ---------------------------
+        ID            : 3
+        Vehicle No.   : pa 4567
+        Entry Time    : 2024-12-21 10:53:05.717396
+        Exit Time     : 2024-12-21 11:26:18.948678
+        Duration      : 0.00 hours
+        Addition Fare : 0.00NPR
+        Price         : 0.00 NPR
+        ---------------------------
+        
+
+        Vehicle Exited
+        ---------------------------
+        ID            : 17
+        Vehicle No.   : pa 4222
+        Entry Time    : 2024-12-21 16:48:40.681740
+        Exit Time     : 2024-12-21 16:49:07.916239
+        Duration      : 0.00 hours
+        Addition Fare : 0.00NPR
+        Price         : 0.00 NPR
+        ---------------------------
+        
